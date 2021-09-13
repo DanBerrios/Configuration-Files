@@ -1,0 +1,43 @@
+Measurement:	Micro-Computed Tomography	Histomorophometry	Tonometry - Intraocular Pressure	Immuno Stain Assay	Immuno Stain Assay	Immuno Stain Assay	Immuno Stain Assay	Immuno Stain Assay	Immuno Stain Assay	Behavior	Behavior
+Ontology Measure:	http://purl.bioontology.org/ontology/MESH/D011859	http://purl.obolibrary.org/obo/OBI_0600020	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16939	http://purl.obolibrary.org/obo/OBI_0001632	http://purl.obolibrary.org/obo/OBI_0001632	http://purl.obolibrary.org/obo/OBI_0001632	http://purl.obolibrary.org/obo/OBI_0001632	http://purl.obolibrary.org/obo/OBI_0001632	http://purl.obolibrary.org/obo/OBI_0001632	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16326	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16326
+Technology: 	Micro-Computed Tomography	Histomorphometry	Tonometry	Fluorescence Microscopy	Light Microscopy	Electron Microscopy	ELISA	Flow Cytometry	Western Blot	Novel Object Recognition 	Elevated Maze Plus
+Ontology Tech:	http://purl.obolibrary.org/obo/MMO_0000570	No good fit 	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C120543	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16856	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17995 	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16854	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16553	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16585	https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16357	http://purl.obolibrary.org/obo/NBO_0000098	http://purl.bioontology.org/ontology/MESH/D000082564
+Supporting Literature: 	"Bouxsein et al., 2010, JBMR: https://doi.org/10.1002/jbmr.141"	"Dempster et al., 2013, JBMR; DOI: 10.1002/jbmr.1805
+
+Iwaniec et al., 2008, MMB; DOI:10.1007/978-1-59745-242-7_21"	"Wang et al., 2005, IOVS; https://doi.org/10.1167/iovs.05-0781"	"Llopis et al., 2021, Nat Meth; https://www.nature.com/articles/s41592-021-01156-w
+
+Buchwalow & Bocker, 2010, Springer;  DOI:10.1007/978-3-642-04609-4
+
+Huisman et al., 2019 arXiv;  https://arxiv.org/pdf/1910.11370.pdf"	"Buchwalow & Bocker, 2010, Springer;  DOI:10.1007/978-3-642-04609-4
+
+Nelson et al., 2021, arXiv; https://arxiv.org/pdf/2101.09153.pdf "		"Crowther, 2005, Springer; DOI: 10.1007/978-1-60327-254-4"			"Lueptow, JOVE, 2017 doi: 10.3791/55718
+
+Mumby et al., 2002, L&M, http://www.learnmem.org/cgi/doi/10.1101/lm.41302
+
+Krukowski et al., 2018, SciRep,  DOI: 10.1038/s41598-018-26039-7"	"Komada et al., 2008, JOVE, https://doi.org/10.3791/1088
+
+Walf & Frye, 2007, Nature Protocol,  https://doi.org/10.1038/nprot.2007.44"
+Platform: 	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI	Entered by PI
+Parameters                (in order with units):	Anatomical Location	"Fluorochrome Label (ex. Calcein, Declomycin, etc.)"	"Device (ex. Rebound, Indentation, Applanation, etc) "	Sample Preparation (ex. Fixative)	Sample preparation (ex. Fixative)	ASK CASSIE	Kit	Primary Antibody	Primary Antibody	Other Behavioral assays conducted prior or concurrent to NOR (freehand entry)	Other Behavioral assays conducted prior or concurrent to EPM (freehand entry)
+	Region of Interest Volume	Sample Preparation (ex. Fixative)	Number of Sequential Measurements	Section Thickness (unit: micrometer)	Section thickness (unit: micrometer)	NOT DONE YET	Primary Antibody	Primary Antibody Dilution	Primary Antibody Dilution	Subject handling frequency and technique (freehand) 	Subject handling frequency and technique (freehand) 
+	X-ray Intensity (unit: milliampere)	Embedding Mixture	Number of Repeats	Block	Primary Antibody		Primary Antibody Dilution	Secondary Antibody	Secondary Antibody	Phase of Assay (light or dark) 	Phase of Assay (light or dark) 
+	Voxel Size (unit: micrometers)	Section Size (unit: Micrometers)		Primary Antibody	Primary Antibody Dilution		Secondary Antibody	Secondary Antibody Dilution	Secondary Antibody Dilution	"Color spectrum (fill-in; EX - white, red, luminosity [lux], temperature metric) "	"Color spectrum (fill-in; EX - white, red, luminosity [lux], temperature metric) "
+	Kilovolt Peak (unit: kilivolt)	Stain		Primary Antibody Dilution	Visualization Method 		Secondary Antibody Dilution	{option for PI to add more)	Instrument (ex. Imager)	Temperature of Room (#; ºC)	Temperature of Room (#; ºC)
+	Integration Time (free text unit - various)	Instrument (ex. Microscope)		Block	Dye		"Type (ex. Sandwich, Competitive, etc.)"	Dye	Development Time (units: /s)	Relative Humidity of Room (#; %)	Relative Humidity of Room (#; %)
+	Threshold Value (ex. gray scale range 0-1000) (unit: tbd by PI)	Magnification		Secondary Antibody	Dye dilution		Instrument (ex. Plate Reader)	Dye Dilution	Visualization Method 	Acclimation to Room Time (#; PI choice of units)	Acclimation to Room Time (#; PI choice of units)
+	"Notes: Separate file (for log data, for 2D, 3D reconstruction, ROI analysis)"			Secondary Antibody Dilution	Instrument (ex. Microscope)		Development Time	Device (ex. Cytometer)	Loading Concentration	"Description of Arena Shape (fill-in; ex. Square, circule, rectangle) "	Size of Arms (L x W x H; #; cm)
+	"Bone specific config (eye, plant, vasculature, etc very different)  "			Dye	Magnification		Sample Dilution	Flow rate (units: Events / s)		Arena Cross-Sectional Area (cm^2; Ex. Where subject ambulates) 	Elevation (#; cm)
+	"In mCT, clear presentation for 2D, 3D, ROI-analysis step"			Dye Dilution	Filter			Flow time (units: /s)		Familiar-Object cross-sectional area (cm x cm; Ex. )	Duration of Recording on Maze (#; mins) 
+	"MB: 1. Scan acquisition parameters, 2. recon parameters, 3. roi (seg-analysis parameters"			Instrument (ex. Microscope)						Novel-Object cross-sectional area (cm x cm)	Replicates Number (#) 
+	"Also starting with outcome variables (most urgent, also for meta-analyses)"			Magnification						Habituation Session (yes/no)	Duration Between Replicates (#; days) 
+	MB: 1. scan acquaition & recontruction									Daily Session Duration (#; min)	Subjects that fall of Open Arm (#; %) 
+#1 and #2 explain #3	2. analysis & ROI & segmentation decisiosn  (CT vs Tb; markers) 									Duration Between Daily Phases (#; hr)	
+	"3. Outcome variables  (BV/TV, tbth, etc) ex. absiolute vs percent"									Replicates Number (#) 	
+	"Data folder strucrture: SCAN (log, stitching acquisition), Recon (log, tomography), Output (Ctan, dep variables)"									Training Session (yes/no)	
+	YS: confidence in original science dep variables vs mining raw for modeling									Daily Session Duration (#; min)	
+										Vivarium Resting Session (yes/no)	
+										Daily Session Duration (#; min)	
+										Testing Session (yes/no)	
+										Daily Session Duration (#; min)	
+											
+											
